@@ -1,6 +1,14 @@
 <h1 align="center">Hello 👋</h1>
 
-###
+  <p>‏‏‎ ‎</p>
+
+<div align="center">
+  <p><strong>Learning:</strong> The Ins And Outs Of OpenAI API</p>
+  <p><strong>Reading:</strong> Atomic Habits</p>
+  <p><strong>Weekly Quote:</strong> "The best way to predict the future is to invent it." - Alan Kay</p>
+</div>
+
+  <p>‏‏‎ ‎</p>
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -20,6 +28,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
 </div>
+
+  <p>‏‏‎ ‎</p>
 
 <h3 align="center">My Stats</h3>
 
