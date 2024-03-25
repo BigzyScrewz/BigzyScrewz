@@ -36,12 +36,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigzyscrewz&theme=default&show_icons=true&hide_border=false&count_private=true" alt="bigzyscrewz's Stats" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigzyscrewz&theme=default&hide_border=false" alt="bigzyscrewz's Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigzyscrewz&theme=default&show_icons=true&hide_border=false&layout=compact" alt="bigzyscrewz's Top Languages" />
+ <a href="https://app.daily.dev/thomasclay"><img src="https://api.daily.dev/devcards/v2/zFdgtdNfRl9z62NgmtvMg.png?type=default&r=pkp" width="356" alt="Thomas Clay's Dev Card"/></a>
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bigzyscrewz&theme=default&show_icons=true&hide_border=false&count_private=true" alt="bigzyscrewz's Stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigzyscrewz&theme=default&hide_border=false" alt="bigzyscrewz's Streak" />
+</div>
