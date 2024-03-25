@@ -42,6 +42,5 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigzyscrewz&theme=default&show_icons=true&hide_border=false&count_private=true" alt="bigzyscrewz's Stats" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigzyscrewz&theme=default&hide_border=false" alt="bigzyscrewz's Streak" />
 </div>
