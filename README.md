@@ -1,18 +1,22 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="left">♠ About me ♠</h1>
 
-  <p>‏‏‎ ‎</p>
+ 
 
-<div align="center">
-  <p><strong>Learning:</strong> The Ins And Outs Of OpenAI API</p>
-  <p><strong>Reading:</strong> Atomic Habits</p>
-  <p><strong>Weekly Quote:</strong> "The best way to predict the future is to invent it." - Alan Kay</p>
+<div align="left">
+  <p><strong>Currently Learning:</strong> </p>
+  <p>
+  ♦ Open AI Api
+</br>
+  ♦ React
+  </br>
+  ♦ Typescript
 </div>
 
-  <p>‏‏‎ ‎</p>
+###
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="left">♥ Languages and Tools ♥</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -31,16 +35,9 @@
 
   <p>‏‏‎ ‎</p>
 
-<h3 align="center">My Stats</h3>
+<h2 align="left">My Stats</h2>
 
-###
 
-<div align="center">
- <a href="https://app.daily.dev/thomasclay"><img src="https://api.daily.dev/devcards/v2/zFdgtdNfRl9z62NgmtvMg.png?type=default&r=pkp" width="356" alt="Thomas Clay's Dev Card"/></a>
-</div>
-
-###
-
-<div align="center">
+<div align="left">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigzyscrewz&theme=default&hide_border=false" alt="bigzyscrewz's Streak" />
 </div>
