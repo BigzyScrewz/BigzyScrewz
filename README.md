@@ -17,6 +17,7 @@
 <h2 align="left">♥ Languages and Tools ♥</h2>
 
 <div align="left">
+ </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -35,7 +36,7 @@
 
   <p>‏‏‎ ‎</p>
 
-<h2 align="left">My Stats</h2>
+<h2 align="left">♣ My Stats ♣</h2>
 
 
 <div align="left">
