@@ -35,10 +35,3 @@
 </div>
 
   <p>‏‏‎ ‎</p>
-
-<h2 align="left">♣ My Stats ♣</h2>
-
-
-<div align="left">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bigzyscrewz&theme=default&hide_border=false" alt="bigzyscrewz's Streak" />
-</div>
