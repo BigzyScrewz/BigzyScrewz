@@ -5,7 +5,7 @@
 <div align="left">
   <p><strong>Currently Learning:</strong> </p>
   <p>
-  ♦ Open AI Api
+  ♦ Tailwind css
 </br>
   ♦ React
   </br>
